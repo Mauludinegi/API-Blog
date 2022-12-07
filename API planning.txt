@@ -60,6 +60,4 @@ GROUP: BLOG
 
 
 
-Mongodb
-username: Giw
-password: A24HJRkzcrWScuJJ
+
